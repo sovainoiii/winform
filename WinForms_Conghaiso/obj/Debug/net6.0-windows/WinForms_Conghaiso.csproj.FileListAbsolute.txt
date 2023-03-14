@@ -15,4 +15,3 @@ E:\CSharp\WinForms\WinForms_Conghaiso\obj\Debug\net6.0-windows\WinForms_Conghais
 E:\CSharp\WinForms\WinForms_Conghaiso\obj\Debug\net6.0-windows\WinForms_Conghaiso.genruntimeconfig.cache
 E:\CSharp\WinForms\WinForms_Conghaiso\obj\Debug\net6.0-windows\ref\WinForms_Conghaiso.dll
 E:\CSharp\WinForms\WinForms_Conghaiso\obj\Debug\net6.0-windows\WinForms_Conghaiso.DemoCommonControls.resources
-E:\CSharp\WinForms\WinForms_Conghaiso\obj\Debug\net6.0-windows\WinForms_Conghaiso.frmDataGridView.resources

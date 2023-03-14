@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+// Bai lam cua Pham Duc Minh
 namespace GridViewDemo
 {
     public partial class frmDataGridView : Form

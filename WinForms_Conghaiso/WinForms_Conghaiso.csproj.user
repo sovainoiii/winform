@@ -4,8 +4,5 @@
     <Compile Update="DemoCommonControls.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmDataGridView.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>
