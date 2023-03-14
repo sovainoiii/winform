@@ -1,0 +1,17 @@
+E:\CSharp\WinForms\GridViewDemo\bin\Debug\net6.0-windows\GridViewDemo.exe
+E:\CSharp\WinForms\GridViewDemo\bin\Debug\net6.0-windows\GridViewDemo.deps.json
+E:\CSharp\WinForms\GridViewDemo\bin\Debug\net6.0-windows\GridViewDemo.runtimeconfig.json
+E:\CSharp\WinForms\GridViewDemo\bin\Debug\net6.0-windows\GridViewDemo.dll
+E:\CSharp\WinForms\GridViewDemo\bin\Debug\net6.0-windows\GridViewDemo.pdb
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\GridViewDemo.csproj.AssemblyReference.cache
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\GridViewDemo.frmDataGridView.resources
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\GridViewDemo.csproj.GenerateResource.cache
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\GridViewDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\GridViewDemo.AssemblyInfoInputs.cache
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\GridViewDemo.AssemblyInfo.cs
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\GridViewDemo.csproj.CoreCompileInputs.cache
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\GridViewDemo.dll
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\refint\GridViewDemo.dll
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\GridViewDemo.pdb
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\GridViewDemo.genruntimeconfig.cache
+E:\CSharp\WinForms\GridViewDemo\obj\Debug\net6.0-windows\ref\GridViewDemo.dll
